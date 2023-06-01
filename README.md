@@ -1,1 +1,1 @@
-# my second real-life project
+# odin-landing
